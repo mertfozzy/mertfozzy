@@ -9,9 +9,7 @@ I love learning new things, I have a lot to learn along the way!
 
 |Follow and Connect with me|
 |-----|
-|<a href="https://www.linkedin.com/in/mertaltuntas/" target="blank"><img align="left" alt="Mert's LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a>
-<a href="https://www.instagram.com/mertfozzy/" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" alt="mertfozzy" width="30"/></a> 
-<a href="mailto:mertfozzy@gmail.com"><img align="left" alt="Mert's Email address" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>|
+|<a href="https://www.linkedin.com/in/mertaltuntas/" target="blank"><img align="left" alt="Mert's LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a><a href="https://www.instagram.com/mertfozzy/" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" alt="mertfozzy" width="30"/></a> <a href="mailto:mertfozzy@gmail.com"><img align="left" alt="Mert's Email address" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>|
 
 
 
