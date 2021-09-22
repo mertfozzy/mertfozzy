@@ -1,4 +1,4 @@
-![photo](https://github.com/mertfozzy/mertfozzy/blob/main/mertcover.png?raw=true)
+![photo](https://github.com/mertfozzy/mertfozzy/blob/main/mertcover1.png?raw=true)
 
 ## Hi fellas ! I'm Mert 👨🏻‍💻
 I'm Mert from Turkey, currently FrontEnd Developer at DataSurgery and Global Expansion Specialist at Robotistan.
