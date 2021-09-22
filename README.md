@@ -1,4 +1,4 @@
-## Hi there my name is Mert 👨🏻‍💻
+## Hi fellas ! I'm Mert 👨🏻‍💻
 I'm Mert from Turkey, currently FrontEnd Developer at DataSurgery and Global Expansion Specialist at Robotistan.
 
 I am studying at Beykoz University Computer Engineering Department. I work focused on Web Development and SEO, as well as working on other Computer Engineering-related projects.
