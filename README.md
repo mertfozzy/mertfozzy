@@ -1,11 +1,11 @@
+![photo](https://github.com/mertfozzy/mertfozzy/blob/main/mertcover.png?raw=true)
+
 ## Hi fellas ! I'm Mert 👨🏻‍💻
 I'm Mert from Turkey, currently FrontEnd Developer at DataSurgery and Global Expansion Specialist at Robotistan.
 
 I am studying at Beykoz University Computer Engineering Department. I work focused on Web Development and SEO, as well as working on other Computer Engineering-related projects.
 
 I love learning new things, I have a lot to learn along the way!
-
-![photo](https://github.com/mertfozzy/mertfozzy/blob/main/mertcover.png?raw=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertfozzy&label=Profile%20views&color=0e75b6&style=flat" alt="mertfozzy" /> </p>
 
