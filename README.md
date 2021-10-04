@@ -1,7 +1,7 @@
 ![photo](https://github.com/mertfozzy/mertfozzy/blob/main/mert.jpg?raw=true)
 
 ## Hi fellas ! I'm Mert 👨🏻‍💻
-I'm Mert from Turkey, currently FrontEnd Developer at DataSurgery and Global Expansion Specialist at Robotistan.
+I'm Mert from Turkey, currently FrontEnd Developer at DataSurgery and also Global Expansion Specialist at Robotistan at the same time. 😎
 
 I am studying at Beykoz University Computer Engineering Department. I work focused on Web Development and SEO, as well as working on other Computer Engineering-related projects.
 
