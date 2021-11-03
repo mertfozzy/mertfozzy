@@ -1,9 +1,13 @@
 ![photo](https://github.com/mertfozzy/mertfozzy/blob/main/mert.jpg?raw=true)
 
 ## Hi fellas ! I'm Mert 👨🏻‍💻
-I'm Mert from Turkey, currently FrontEnd Developer at DataSurgery and also Global Expansion Specialist at Robotistan at the same time. 😎
+I'm Mert from Turkey, I am studying at Beykoz University Computer Engineering Department. 
 
-I am studying at Beykoz University Computer Engineering Department. I work focused on Web Development and SEO, as well as working on other Computer Engineering-related projects.
+I'm also currently working as Global Expansion Specialist at Robotistan Electronic Company. 😎
+
+I work focused on Web Development and SEO, as well as working on other Computer Engineering-related projects.
+
+
 
 I love learning new things, I have a lot to learn along the way!
 
@@ -16,10 +20,11 @@ I love learning new things, I have a lot to learn along the way!
 
 
 
-- 🚀 I’m currently working on ReactJS
-- 👨🏻‍💻 I’m currently learning Advanced Javascript Frameworks
-- ✅ I'm doing Semantic SEO works and blogging.
-- 💻 I've experienced OpenCV and Python projects.
+- 🚀 I’m currently working on Advanced Python Projects.
+- 👨🏻‍💻 I’m currently learning Advanced Javascript Frameworks and also Python Libraries.
+- ⚡ I'm using both Windows 11 & Ubuntu 20.04 LTS.
+- 🌍 I'm doing Semantic SEO works and Blogging.
+- 💻 I've experienced ReactJS, CSS3 and Bootstrap in some Frontend Projects.
 
 
 [![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertfozzy)](https://github.com/anuraghazra/github-readme-stats)
