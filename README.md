@@ -9,7 +9,7 @@ I work focused on Web Development and SEO, as well as working on other Computer 
 
 
 
-I love learning new things, I have a lot to learn along the way!
+I love learning new things, I have a lot to learn along the way! Like Paul Heyman said; "Eat! Sleep! Conquer! Repeat!".
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertfozzy&label=Profile%20views&color=0e75b6&style=flat" alt="mertfozzy" /> </p>
 
