@@ -7,6 +7,7 @@ I'm also currently working as Global Expansion Specialist at Robotistan Electron
 
 I work focused on Web Development and SEO, as well as working on other Computer Engineering-related projects.
 
+Also I've completed Harvard's CS50x. Now, I'm taking courses; "Systems Programming", "Database Systems", "Computer Organsation" and "AI" from my university currently.
 
 
 I love learning new things, I have a lot to learn along the way! Like Paul Heyman said; "Eat! Sleep! Conquer! Repeat!".
@@ -21,9 +22,10 @@ I love learning new things, I have a lot to learn along the way! Like Paul Heyma
 
 
 - 🚀 I’m currently working on Advanced Python Projects.
-- 👨🏻‍💻 I’m currently learning Advanced Javascript Frameworks and also Python Libraries.
+- 👨🏻‍💻 I’m currently learning MsSql, Bash Scripting, MIPS.
 - ⚡ I'm using both Windows 11 & Ubuntu 20.04 LTS.
 - 🌍 I'm doing Semantic SEO works and Blogging.
+- ⭐ I've completed Harvard's CS50x 2021.
 - 💻 I've experienced ReactJS, CSS3 and Bootstrap in some Frontend Projects.
 
 
