@@ -7,7 +7,7 @@ I'm also currently working as Global Expansion Specialist at Robotistan Electron
 
 I work focused on Web Development and SEO, as well as working on other Computer Engineering-related projects.
 
-Also I've completed Harvard's CS50x. Now, I'm taking courses; "Systems Programming", "Database Systems", "Computer Organsation" and "AI" from my university currently.
+Also I've completed Harvard's CS50x. Now, I'm taking courses; "Systems Programming", "Database Systems", "Computer Organisation" and "AI" from my university currently.
 
 
 I love learning new things, I have a lot to learn along the way! Like Paul Heyman said; "Eat! Sleep! Conquer! Repeat!".
