@@ -22,11 +22,12 @@ I love learning new things, I have a lot to learn along the way! Like Paul Heyma
 
 
 - 🚀 I’m currently working on Advanced Python Projects.
-- 👨🏻‍💻 I’m currently learning MsSql, Bash Scripting, MIPS.
+- 👨🏻‍💻 I’m currently learning MsSQL, Bash Scripting, MIPS.
 - ⚡ I'm using both Windows 11 & Ubuntu 20.04 LTS.
 - 🌍 I'm doing Semantic SEO works and Blogging.
 - ⭐ I've completed Harvard's CS50x 2021.
-- 💻 I've experienced ReactJS, CSS3 and Bootstrap in some Frontend Projects.
+- 🥇 I've learned OOP & Data Structure Principles in Java.
+- 💻 I've experienced ReactJS, CSS3 and Bootstrap in some Frontend Projects. Also Java AWT/Swing UI Projects.
 
 
 [![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertfozzy)](https://github.com/anuraghazra/github-readme-stats)
