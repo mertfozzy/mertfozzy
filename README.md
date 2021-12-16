@@ -30,7 +30,7 @@ I love learning new things, I have a lot to learn along the way! Like Paul Heyma
 - 💻 I've experienced ReactJS, CSS3 and Bootstrap in some Frontend Projects. Also Java AWT/Swing UI Projects.
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertfozzy&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="mertfozzy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertfozzy&show_icons=true&theme=dark&locale=en&layout=compact" alt="mertfozzy" /></p>
 
 [![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertfozzy&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
