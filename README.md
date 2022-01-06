@@ -1,6 +1,6 @@
 ![photo](https://github.com/mertfozzy/mertfozzy/blob/main/mert.jpg?raw=true)
 
-## Hi fellas ! I'm Mert 👨🏻‍💻
+## Hi fellas! I'm Mert 👨🏻‍💻
 I'm Mert from Turkey, I am studying at Beykoz University Computer Engineering Department. 
 
 I'm also currently working as Global Expansion Specialist at Robotistan Electronic Company. 😎
@@ -10,7 +10,7 @@ I work focused on Web Development and SEO, as well as working on other Computer 
 Also I've completed Harvard's CS50x. Now, I'm taking courses; "Systems Programming", "Database Systems", "Computer Organisation" and "AI" from my university currently.
 
 
-I love learning new things, I have a lot to learn along the way! Like Paul Heyman said; "Eat! Sleep! Conquer! Repeat!".
+I love learning new things, I have a lot to learn along the way! "Eat! Sleep! Conquer! Repeat!".
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertfozzy&label=Profile%20views&color=0e75b6&style=flat" alt="mertfozzy" /> </p>
 
