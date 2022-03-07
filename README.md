@@ -8,7 +8,7 @@
 
 ➡️ I've completed Harvard's CS50x. Nowadays, I'm trying to have Google IT Support Professional Certificate. Currently taking these courses; "Computer Networks", "Operating Systems" and "Analysis of Algorithms" from my university currently.
 
-I love learning new things, I have a lot to learn along the way! "Eat! Sleep! Conquer! Repeat!".
+➡️ I love learning new things, I have a lot to learn along the way! "Eat! Sleep! Conquer! Repeat!".
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertfozzy&label=Profile%20views&color=0e75b6&style=flat" alt="mertfozzy" /> </p>
 
