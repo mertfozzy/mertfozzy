@@ -14,6 +14,7 @@ I love learning new things, I have a lot to learn along the way! "Eat! Sleep! Co
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertfozzy&label=Profile%20views&color=0e75b6&style=flat" alt="mertfozzy" /> </p>
 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-quare&labelColor=4169E1&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/mertaltuntas/)
 
 |Connect with Me|
 |-----|
