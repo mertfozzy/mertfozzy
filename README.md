@@ -5,10 +5,11 @@ I'm Mert from Turkey, I am studying at Beykoz University Computer Engineering De
 
 I'm also currently working as Global Expansion Specialist at Robotistan Electronic Company. 😎
 
-I work focused on Web Development and SEO, as well as working on other Computer Engineering-related projects.
+I work focused on IT Support Principles, as well as working on other Computer Engineering-related projects.
 
-Also I've completed Harvard's CS50x. Now, I'm taking courses; "Systems Programming", "Database Systems", "Computer Organisation" and "AI" from my university currently.
+I've completed Harvard's CS50x. Nowadays, I'm trying to have Google IT Support Professional Certificate. 
 
+Currently taking these courses; "Computer Networks", "Operating Systems" and "Analysis of Algorithms" from my university currently.
 
 I love learning new things, I have a lot to learn along the way! "Eat! Sleep! Conquer! Repeat!".
 
@@ -22,13 +23,14 @@ I love learning new things, I have a lot to learn along the way! "Eat! Sleep! Co
 
 
 
-- 🚀 I’m currently working on Advanced Python Projects.
-- 👨🏻‍💻 I’m currently learning MsSQL, Bash Scripting, MIPS.
+- 🚀 I’m currently working on Android Mobile App Development.
+- 🔰 I’m currently learning Kotlin Programming & Firebase.
 - ⚡ I'm using both Windows 11 & Ubuntu 20.04 LTS.
-- 🌍 I'm doing Semantic SEO works and Blogging.
 - ⭐ I've completed Harvard's CS50x 2021.
+- 👨🏻‍💻 I'm trying to earn Google IT Support Professional Certificate.
 - 🥇 I've learned OOP & Data Structure Principles in Java.
-- 💻 I've experienced ReactJS, CSS3 and Bootstrap in some Frontend Projects. Also Java AWT/Swing UI Projects.
+- 💻 I've experienced ReactJS, CSS3 and Bootstrap in some Frontend Projects. Also; Java AWT/Swing UI Projects and MsSQL for database designing.
+- 🌍 I'm doing Semantic SEO works and Blogging for now. However, I want to become an IT Specialist in the future. Working very hard for that.
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertfozzy&show_icons=true&theme=dark&locale=en&layout=compact" alt="mertfozzy" /></p>
