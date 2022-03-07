@@ -2,11 +2,11 @@
 
 ## Hi fellas! I'm Mert 👨🏻‍💻
 
--> I'm Mert from Turkey, I am studying at Beykoz University Computer Engineering Department. Also I'm currently working as Global Expansion Specialist at Robotistan Electronic Company. 😎
+➡️ I'm Mert from Turkey, I am studying at Beykoz University Computer Engineering Department. Also I'm currently working as Global Expansion Specialist at Robotistan Electronic Company. 😎
 
--> I work focused on IT Support Principles, as well as working on other Computer Engineering-related projects.
+➡️ I work focused on IT Support Principles, as well as working on other Computer Engineering-related projects.
 
--> I've completed Harvard's CS50x. Nowadays, I'm trying to have Google IT Support Professional Certificate. Currently taking these courses; "Computer Networks", "Operating Systems" and "Analysis of Algorithms" from my university currently.
+➡️ I've completed Harvard's CS50x. Nowadays, I'm trying to have Google IT Support Professional Certificate. Currently taking these courses; "Computer Networks", "Operating Systems" and "Analysis of Algorithms" from my university currently.
 
 I love learning new things, I have a lot to learn along the way! "Eat! Sleep! Conquer! Repeat!".
 
