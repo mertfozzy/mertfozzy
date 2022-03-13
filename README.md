@@ -21,7 +21,7 @@
 
 
 - 🚀 I’m currently working on Android Mobile App Development.
-- 🔰 I’m currently learning Kotlin Programming & Firebase.
+- 🔰 I’m currently learning Android Java Programming & Firebase.
 - ⚡ I'm using both Windows 11 & Ubuntu 20.04 LTS.
 - ⭐ I've completed Harvard's CS50x 2021.
 - 👨🏻‍💻 I'm trying to earn Google IT Support Professional Certificate.
