@@ -24,7 +24,7 @@
 - 🔰 I’m currently learning Android Java Programming & Firebase.
 - ⚡ I'm using both Windows 11 & Ubuntu 20.04 LTS.
 - ⭐ I've completed Harvard's CS50x 2021.
-- 👨🏻‍💻 I'm trying to earn Google IT Support Professional Certificate.
+- 👨🏻‍💻 I've earned Google IT Support Professional Certificate.
 - 🥇 I've learned OOP & Data Structure Principles in Java.
 - 💻 I've experienced ReactJS, CSS3 and Bootstrap in some Frontend Projects. Also; Java AWT/Swing UI Projects and MsSQL for database designing.
 - 🌍 I'm doing Semantic SEO works and Blogging for now. However, I want to become an IT Specialist in the future. Working very hard for that.
