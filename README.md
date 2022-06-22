@@ -22,7 +22,7 @@
 
 - 🚀 I’m currently working on Android Mobile App Development.
 - 🔰 I’m currently learning Android Java Programming & Firebase.
-- ⚡ I'm using both Windows 11 & Ubuntu 20.04 LTS.
+- ⚡ I'm using both <b>Windows 11</b>,<b> Ubuntu 20.04-LTS</b> and <b>Pop_OS! 22.04-LTS</b>.
 - ⭐ I've completed Harvard's CS50x 2021.
 - 👨🏻‍💻 I've earned Google IT Support Professional Certificate.
 - 🥇 I've learned OOP & Data Structure Principles in Java.
