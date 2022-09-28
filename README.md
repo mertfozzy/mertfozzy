@@ -2,11 +2,11 @@
 
 ## Hi fellas! I'm Mert 👨🏻‍💻
 
-➡️ I'm Mert from Turkey, I am studying at Beykoz University Computer Engineering Department. Also I'm currently working as Global Expansion Specialist at Robotistan Electronic Company. 😎
+➡️ I'm Mert from Turkey, I am studying at Beykoz University Computer Engineering Department. Also I'm currently working as Information Technology Intern at STILL ARSER group company. 😎
 
 ➡️ I work focused on IT Support Principles, as well as working on other Computer Engineering-related projects.
 
-➡️ I've completed Harvard's CS50x and Google IT Support Professional Certificate. Currently taking these courses; "Computer Networks", "Operating Systems" and "Analysis of Algorithms" from my university currently.
+➡️ I've completed Harvard's CS50x and Google IT Support Professional Certificate. Currently taking these courses; "IT Security", "Software Engineering Stages" and "Graph Theory" from my university currently.
 
 ➡️ I love learning new things, I have a lot to learn along the way! "Eat! Sleep! Conquer! Repeat!".
 
@@ -20,14 +20,16 @@
 
 
 
-- 🚀 I’m currently working on Android Mobile App Development.
-- 🔰 I’m currently learning Android Java Programming & Firebase.
-- ⚡ I'm using both <b>Windows 11</b>,<b> Ubuntu 20.04-LTS</b> and <b>Pop_OS! 22.04-LTS</b>.
+- 🚀 I’m currently working on SAP S4 HANA Projects.
+- 🔰 I’m currently learning SAP Modules and Helpdesk Operations.
+- ⚡ I'm using both <b>Windows 11</b>,<b> Ubuntu 20.04-LTS</b>.
 - ⭐ I've completed Harvard's CS50x 2021.
 - 👨🏻‍💻 I've earned Google IT Support Professional Certificate.
+- 🌍 I'm doing Helpdesk Operations for now. I want to become an IT Specialist in the future. Working very hard for that.
+- 😎 I've experienced Android App Development with related technologies such as React Native, Java Android SDK..
 - 🥇 I've learned OOP & Data Structure Principles in Java.
-- 💻 I've experienced ReactJS, CSS3 and Bootstrap in some Frontend Projects. Also; Java AWT/Swing UI Projects and MsSQL for database designing.
-- 🌍 I'm doing Semantic SEO works and Blogging for now. However, I want to become an IT Specialist in the future. Working very hard for that.
+- 💻 I've also experienced ReactJS, CSS3 and Bootstrap in some Frontend Projects. Also; Java AWT/Swing UI Projects and MsSQL for database designing.
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertfozzy&show_icons=true&theme=dark&locale=en&layout=compact" alt="mertfozzy" /></p>
