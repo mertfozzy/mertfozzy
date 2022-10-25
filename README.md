@@ -18,7 +18,7 @@
 
 - ⚡ I'm using both **Windows 11, Ubuntu 20.04-LTS.**
 
-- ⭐ I've completed **Harvard's CS50x 2021.**
+- ⭐ I've completed **Harvard's CS50x.**
 
 - 😎 I've experienced **Android App Development with related technologies such as React Native, Java Android SDK.**
 
