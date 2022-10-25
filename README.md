@@ -5,12 +5,6 @@
 
 ➡️ I'm Mert from Turkey, I am studying at Beykoz University Computer Engineering Department. Also I'm currently working as Information Technology Intern at STILL ARSER group company. 😎
 
-➡️ I work focused on IT Support Principles, as well as working on other Computer Engineering-related projects.
-
-➡️ I've completed Harvard's CS50x and Google IT Support Professional Certificate. Currently taking these courses; "IT Security", "Software Engineering Stages" and "Graph Theory" from my university currently.
-
-➡️ I love learning new things, I have a lot to learn along the way! "Eat! Sleep! Conquer! Repeat!".
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertfozzy&label=Profile%20views&color=0e75b6&style=flat" alt="mertfozzy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mertfozzy" alt="mertfozzy" /></a> </p>
