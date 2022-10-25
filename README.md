@@ -57,6 +57,13 @@
 </div>
 
 <h3 align="left">Trophies:</h3>
+<div>
+<img alt="hp" src="https://img.shields.io/badge/powered%20by%20hp-0096D6?style=for-the-badge&logo=hp&logoColor=white"></img>
+<img alt="intel" src="https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"></img>
+<img alt="nvidia" src="https://img.shields.io/badge/NVIDIA-MX330-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></img>
+</div>
+
+<h3 align="left">Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mertfozzy" alt="mertfozzy" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertfozzy&show_icons=true&theme=dark&locale=en&layout=compact" alt="mertfozzy" /></p>
