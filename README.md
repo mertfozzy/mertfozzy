@@ -63,14 +63,7 @@
 <img alt="nvidia" src="https://img.shields.io/badge/NVIDIA-MX330-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></img>
 </div>
 
-<h3 align="left">Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mertfozzy" alt="mertfozzy" /></a> </p>
-
-### Now Playing 🎧
-
-[![Spotify](https://novatorem-m84nrore7-developers.vercel.app/api/spotify)](https://open.spotify.com/user/mertaltuntas78)
-
-### GITHUB STATS 
+### Github Stats 
 
 <diV>
 
@@ -94,11 +87,5 @@
 </div>
 <br/>
    
-   <div align="center">
- 
- ![github contribution grid snake animation](https://raw.githubusercontent.com/mertfozzy/mertfozzy/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
-
-  
-</div>
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
