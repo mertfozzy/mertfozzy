@@ -12,9 +12,9 @@
 
 - 🚀 I’m currently working on **SAP S4 HANA Projects.**
 
-- 👨🏻‍💻 I've earned **Google IT Support Professional Certificate.**
+- 🔰 I’m currently learning **SAP ABAP/4 Programming**
 
-- 🔰 I’m currently learning **SAP Modules and Helpdesk Operations.**
+- 👨🏻‍💻 I've earned **Google IT Support Professional Certificate.**
 
 - ⚡ I'm using both **Windows 11, Ubuntu 20.04-LTS.**
 
