@@ -12,7 +12,7 @@
 
 - 🚀 I’m currently working on **SAP S4 HANA Projects.**
 
-- 🔰 I’m currently learning **SAP ABAP/4 Programming**
+- 🔰 I’m currently learning **SAP BASIS Fundamentals.**
 
 - 👨🏻‍💻 I've earned **Google IT Support Professional Certificate.**
 
