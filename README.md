@@ -16,7 +16,7 @@
 
 - 👨🏻‍💻 I've earned **Google IT Support Professional Certificate.**
 
-- ⚡ I'm using both **Windows 11, Ubuntu 20.04-LTS.**
+- ⚡ I'm using both **Windows 10, Pop_OS! 22.04-LTS.**
 
 - ⭐ I've completed **Harvard's CS50x.**
 
