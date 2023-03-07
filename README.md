@@ -10,9 +10,11 @@
 
 
 
-- 🚀 I’m currently working on **SAP S4 HANA Projects.**
+- 🚀 I’m currently working on **Mastering Windows Server 2016.**
 
-- 🔰 I’m currently learning **SAP BASIS Fundamentals.**
+- 🔰 I’m currently learning **Active Directory Management.**
+
+- 🌎 I've learned **SAP BASIS Fundamentals.**
 
 - 👨🏻‍💻 I've earned **Google IT Support Professional Certificate.**
 
