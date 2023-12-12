@@ -3,18 +3,14 @@
 <h1 align="center">Hi 👋, I'm Mert Altuntaş.</h1>
 <h3 align="center">Information Technology & Processes Intern</h3>
 
-➡️ I'm Mert from Turkey, I am studying at Beykoz University Computer Engineering Department. Also I'm currently working as Information Technology Intern at STILL ARSER group company. 😎
+➡️ I'm Mert from Turkey, I've graduated from Beykoz University Computer Engineering Department. Also I'm currently working as IT Operations Professional at Siemens Advanta. 😎
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertfozzy&label=Profile%20views&color=0e75b6&style=flat" alt="mertfozzy" /> </p>
 
 
 
 
-- 🚀 I’m currently working on **SAP S/4 HANA.**
-
-- 🔰 I’m currently learning **SAP ABAP/4 Development.**
-
-- 🌎 I've learned **Mastering Windows Server 2016.**
+- 🚀 I’m currently working on **ITIL.**
 
 - 👨🏻‍💻 I've earned **Google IT Support Professional Certificate.**
 
