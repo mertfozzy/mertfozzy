@@ -14,7 +14,7 @@
 
 - 👨🏻‍💻 I've earned **Google IT Support Professional Certificate.**
 
-- ⚡ I'm using both **Windows 10, Ubuntu 22.04-LTS.**
+- ⚡ I've worked related with **SAP User Management and IT Operations.**
 
 - ⭐ I've completed **Harvard's CS50x.**
 
