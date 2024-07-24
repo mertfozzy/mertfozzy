@@ -9,6 +9,10 @@
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertfozzy&label=Profile%20views&color=0e75b6&style=flat" alt="mertfozzy" /> </p>
 
+<br/>
+🚀 I'm working on advancing my career and becoming a DevOps. 
+<br/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,8 +32,6 @@
 <div>
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img>
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></img>
-<img alt="OpenSUSE" src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white"></img>
-<img alt="PopOS!" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white"></img>
 <img alt="Elementary" src="https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white"></img>
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></img>
 </div>
@@ -55,8 +57,8 @@
 <h3 align="left">Hardware:</h3>
 <div>
 <img alt="hp" src="https://img.shields.io/badge/powered%20by%20hp-0096D6?style=for-the-badge&logo=hp&logoColor=white"></img>
-<img alt="intel" src="https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"></img>
-<img alt="nvidia" src="https://img.shields.io/badge/NVIDIA-MX330-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></img>
+<img alt="intel" src="https://img.shields.io/badge/Intel%20Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white"></img>
+<img alt="nvidia" src="https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></img>
 </div>
 
 <hr/>
