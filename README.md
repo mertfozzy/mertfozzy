@@ -1,7 +1,7 @@
 ![photo](https://github.com/mertfozzy/mertfozzy/blob/main/mert.jpg?raw=true)
 
 <h1 align="center">Hi 👋, I'm Mert Altuntaş.</h1>
-<h3 align="center">IT OPERATIONS PROFESSIONAL</h3>
+<h3 align="center">WELCOME TO MY PROFILE BUDDY</h3>
 
 ➡️ I'm Mert from Turkey, I've graduated from Beykoz University Computer Engineering Department. 
 <br/>
