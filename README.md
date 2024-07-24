@@ -10,18 +10,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertfozzy&label=Profile%20views&color=0e75b6&style=flat" alt="mertfozzy" /> </p>
 
 
-
-
-- 🚀 I’m currently working on **ITIL.**
-
-- 👨🏻‍💻 I've earned **Google IT Support Professional Certificate.**
-
-- ⚡ I've worked related with **SAP User Management and IT Operations.**
-
-- ⭐ I've completed **Harvard's CS50x.**
-
-- 😎 I've experienced **Android App Development with related technologies such as React Native, Java Android SDK.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mertsteen1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mertsteen1" height="30" width="40" /></a>
