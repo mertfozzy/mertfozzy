@@ -9,12 +9,9 @@
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertfozzy&label=Profile%20views&color=0e75b6&style=flat" alt="mertfozzy" /> </p>
 
-⭐ I'm currently responsible for L1 & L2 IT Support for the Software Development teams in R&D center. 
-<br/>
-🚀 I'm working on advancing my career and becoming a DevOps.  
-<br/>
-👨🏻‍💻 My aim is keep tracking the DevOps roadmap, take self-confident steps on this path.  
-<br/>
+⭐ I'm currently responsible for L1 & L2 IT Support for the Software Development teams in R&D center.<br/>
+🚀 I'm working on advancing my career and becoming a DevOps.<br/>
+👨🏻‍💻 My aim is keep tracking the DevOps roadmap, take self-confident steps on this path.<br/>
 
 
 <h3 align="left">Connect with me:</h3>
