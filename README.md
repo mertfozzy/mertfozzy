@@ -55,8 +55,8 @@
 <h3 align="left">Hardware:</h3>
 <div>
 <img alt="hp" src="https://img.shields.io/badge/powered%20by%20hp-0096D6?style=for-the-badge&logo=hp&logoColor=white"></img>
-<img alt="intel" src="https://img.shields.io/badge/Intel%20Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white"></img>
-<img alt="nvidia" src="https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></img>
+<img alt="intel" src="https://img.shields.io/badge/Intel%20Core_i7_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white"></img>
+<img alt="nvidia" src="https://img.shields.io/badge/NVIDIA-RTX4050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></img>
 </div>
 
 <hr/>
