@@ -23,11 +23,11 @@
 
 ### 👨‍💻 About Me
 
-I graduated from **Beykoz University, Computer Engineering** department. Currently, I work as an **L1 & L2 IT Support Specialist** in an Deutsche Bank, ensuring bank is running smooth operations.
+I graduated from **Beykoz University, Computer Engineering** department. Currently, I work as an **L1 & L2 IT Support Specialist** in Deutsche Bank, ensuring bank is running smooth operations.
 
-My passion lies in automation and building robust systems. While mastering IT operations, I am actively following the **Spring Boot Roadmap** to transition into a professional **Backend Developer** role.
+My passion lies in automation and building robust systems.
 
-* 🔭 I’m currently working on: **PowerShell Automation Tools & Spring Boot Projects**
+* 🔭 I’m currently working on: **PowerShell Automation Tools**
 * 🌱 I’m currently learning: **Microservices, Advanced Java, System Architecture**
 * ⚡ Fun fact: I believe a lazy system administrator is the best administrator because they automate everything!
 
