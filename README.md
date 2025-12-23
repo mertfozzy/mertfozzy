@@ -23,7 +23,7 @@
 
 ### 👨‍💻 About Me
 
-I graduated from **Beykoz University, Computer Engineering** department. Currently, I work as an **L1 & L2 IT Support Specialist** in an R&D center, ensuring smooth operations for software development teams.
+I graduated from **Beykoz University, Computer Engineering** department. Currently, I work as an **L1 & L2 IT Support Specialist** in an Deutsche Bank, ensuring bank is running smooth operations.
 
 My passion lies in automation and building robust systems. While mastering IT operations, I am actively following the **Spring Boot Roadmap** to transition into a professional **Backend Developer** role.
 
