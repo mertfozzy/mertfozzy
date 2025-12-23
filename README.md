@@ -2,7 +2,7 @@
   <img src="https://github.com/mertfozzy/mertfozzy/blob/main/mert.jpg?raw=true" width="150" style="border-radius: 50%;" alt="Mert Altuntaş"/>
   
   <h1>Hi there, I'm Mert Altuntaş! 👋</h1>
-  <h3>IT Support Specialist | Aspiring Backend Developer</h3>
+  <h3>IT Support Specialist</h3>
   
   <p>
     I bridge the gap between <b>System Operations</b> and <b>Software Development</b>.
